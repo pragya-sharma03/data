@@ -1,0 +1,1300 @@
+﻿{
+    "B.com": [
+        {
+            "Name": "BHAVAN'S SHETH RA SHAH COLLEGE OF ARTS AND COMMERCE - [BSRASCAC]",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "https://www.bhavancollege.org/index.php",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "AHMEDABAD UNIVERSITY",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "https://ahduni.edu.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "HL COLLEGE OF COMMERCE - [HLCC]",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "https://www.hlcollege.edu/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "CU SHAH COMMERCE COLLEGE",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "https://www.cushahsciencecollege.org/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "GUJARAT ARTS AND COMMERCE COLLEGE",
+            "City": "Ahmedabad",
+            "University Type": "Government",
+            "Degree": "B.com",
+            "Weblink": "http://www.gacc.org.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "CC SHETH COLLEGE OF COMMERCE",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "http://www.ccshethcommerce.com/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "LJ COLLEGE OF COMMERCE",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "https://newljcollege.com/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "FD ARTS AND COMMERCE COLLEGE FOR WOMEN",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "https://www.fdwomencollege.org/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "PRIN MC SHAH COMMERCE COLLEGE",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "http://www.mcshahcommerce.com/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "M P ARTS AND M H COMMERCE COLLEGE FOR WOMEN",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "http://mpmhcollege.edu.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "ST XAVIER'S COLLEGE",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "http://xaviers.edu/main/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "UMIYA ARTS AND COMMERCE COLLEGE FOR GIRLS",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "http://www.umiyacollege.org/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "RH PATEL ARTS AND COMMERCE COLLEGE",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "www.rhpacc.org",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "LOKMANYA COLLEGE OF COMPUTER APPLICATIONS",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "www.Lokmanya.ac.in",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "NIRMA UNIVERSITY ",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "https://nirmauni.ac.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "indus University",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "https://www.indusuni.ac.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "Gujarat University",
+            "City": "Ahmedabad",
+            "University Type": "Government",
+            "Degree": "B.com",
+            "Weblink": "https://www.gujaratuniversity.ac.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "GLS University",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "http://www.glsuniversity.ac.in/",
+            "Minimum eligibility": "45% in 12th"
+        },
+        {
+            "Name": "SHRI SAHAJANAND ARTS & COMMERCE COLLEGE",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "http://www.shreesahajanandcollege.com",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "PANDIT DEENDAYAL PETROLEUM UNIVERSITY (PDPU) ",
+            "City": "Gandhi Nagar",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "http://www.pdpu.ac.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "GANPAT UNIVERSITY",
+            "City": "Mehsana",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "https://www.ganpatuniversity.ac.in/",
+            "Minimum eligibility": "55% in 12th"
+        },
+        {
+            "Name": "CHRIST COLLEGE",
+            "City": "Rajkot",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "https://www.christcollegerajkot.edu.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "Marwadi University (MU)",
+            "City": "Rajkot",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "https://www.marwadiuniversity.ac.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "RK University",
+            "City": "Rajkot",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "https://www.rku.ac.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "Atmiya University(AU)",
+            "City": "Rajkot",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "https://atmiyauni.ac.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "Auro University",
+            "City": "Surat",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "https://aurouniversity.edu.in",
+            "Minimum eligibility": "50% in 12th"
+        },
+        {
+            "Name": "MSU - The Maharaja Sayajirao University of Baroda",
+            "City": "Vadodara",
+            "University Type": "Government",
+            "Degree": "B.com",
+            "Weblink": "https://msubaroda.ac.in/",
+            "Minimum eligibility": "50% in 12th"
+        },
+        {
+            "Name": "Parul University",
+            "City": "Vadodara",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "http://www.paruluniversity.ac.in/home/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "SARDAR PATEL UNIVERSITY - [SPU]",
+            "City": "Vallabh Vidyanagar",
+            "University Type": "Government",
+            "Degree": "B.com",
+            "Weblink": "http://www.spuvvn.edu/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "C.U Shah University",
+            "City": "WADHWAN",
+            "University Type": "Private",
+            "Degree": "B.com",
+            "Weblink": "https://www.cushahuniversity.ac.in/",
+            "Minimum eligibility": "12th passed"
+        }
+    ],
+    "BBA": [
+        {
+            "Name": "NAEMD Ahmedabad - National Academy of Event Management and Development",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "https://www.naemd.com/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "Amity Global Business School (AGBS)",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "http://noida.agbs.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "Brahmachari Wadi Trust: Institute of Business Administration",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "http://hkbba.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "AHMEDABAD UNIVERSITY",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "https://ahduni.edu.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "CU SHAH COMMERCE COLLEGE",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "https://www.cushahsciencecollege.org/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "indus University",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "https://www.indusuni.ac.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "NIRMA UNIVERSITY ",
+            "City": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "https://nirmauni.ac.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "Anand Commerce College",
+            "City": "Anand",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "http://www.acc.ac.in/",
+            "Minimum eligibility": "50% mark in 12th"
+        },
+        {
+            "Name": "Bhikhabhai Jivabhai Vanijya Mahavidyalaya (BJVM)",
+            "City": "Anand",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "http://www.bjvm.ac.in/",
+            "Minimum eligibility": "50% mark in 12th"
+        },
+        {
+            "Name": "Indukaka Ipcowala Institute of Management",
+            "City": "Anand",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "https://charusat.ac.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "Ganpat University",
+            "City": "Mehsana",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "https://www.ganpatuniversity.ac.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "Shree J. D. Gabani Commerce College",
+            "City": "Surat",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "http://www.jdgsas.ac.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "UCCC & SPBCBA & SDHGCBCA College",
+            "City": "Surat",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "http://www.udhnacollege.org/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "Durlabhbhai Ramjibhai Patel and Ramjibhai Bhanabhai Patel Commerce College",
+            "City": "Surat",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "http://www.navnirmanmandal.in/DRB/indexDRB.php",
+            "Minimum eligibility": "50% mark in 12th"
+        },
+        {
+            "Name": "SDJ International College",
+            "City": "Surat",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "https://www.sdjic.org/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "B.R.C.M. College of Business Administration",
+            "City": "Surat",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "http://www.brcmbba.org/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "SDJ INTERNATIONAL COLLEGE",
+            "City": "Surat",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "https://www.sdjic.org/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "BRCM College of Business Administration",
+            "City": "Surat",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "http://www.brcmbba.org/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "Parul university ",
+            "City": "Vadodara",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "http://www.paruluniversity.ac.in/home/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "ITM (SLS) BARODA UNIVERSITY ",
+            "City": "Vadodara",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "http://www.itmbu.ac.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "Sigma Institute of Science & Commerce",
+            "City": "Vadodara",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "https://sigma.ac.in/",
+            "Minimum eligibility": " 12th in the Commerce stream"
+        },
+        {
+            "Name": "MSU Baroda",
+            "City": "Vadodara",
+            "University Type": "Government",
+            "Degree": "BBA",
+            "Weblink": "https://msubaroda.ac.in/",
+            "Minimum eligibility": "50% mark in 12th"
+        },
+        {
+            "Name": "Navrachana University",
+            "City": "Vadodara",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "https://nuv.ac.in/",
+            "Minimum eligibility": "50% mark in 12th"
+        },
+        {
+            "Name": "Maharaja Sayajirao University of Baroda (MSU Baroda)",
+            "City": "Vadodara",
+            "University Type": "Government",
+            "Degree": "BBA",
+            "Weblink": "www.msubaroda.ac.in/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "Sardar Patel University (SPU) ",
+            "City": "Vallabh Vidyanagar",
+            "University Type": "Government",
+            "Degree": "BBA",
+            "Weblink": "http://www.spuvvn.edu/",
+            "Minimum eligibility": "12th passed"
+        },
+        {
+            "Name": "C.U Shah University",
+            "City": "WADHWAN",
+            "University Type": "Private",
+            "Degree": "BBA",
+            "Weblink": "https://www.cushahuniversity.ac.in/",
+            "Minimum eligibility": "12th passed"
+        }
+    ],
+    "B.arch": [
+        {
+            "College/University": "Anant National University",
+            "City ": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.arch",
+            "Weblink": "https://anu.edu.in/",
+            "Exam": "NATA",
+            "Minimum Eligibility": "50% marks in 12th"
+        },
+        {
+            "College/University": "Nirma University",
+            "City ": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.arch",
+            "Weblink": "https://nirmauni.ac.in/",
+            "Exam": "NATA",
+            "Minimum Eligibility": "50% marks in 12th"
+        },
+        {
+            "College/University": "LJ School of Architecture",
+            "City ": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.arch",
+            "Weblink": "https://www.ljinstitutes.org",
+            "Exam": "No exam",
+            "Minimum Eligibility": "PCM subjects"
+        },
+        {
+            "College/University": "Alpha Group Of College",
+            "City ": "Gandhinagar",
+            "University Type": "Private",
+            "Degree": "B.arch",
+            "Weblink": "https://www.alphagroup.edu/",
+            "Exam": "No exam",
+            "Minimum Eligibility": "PCM subjects"
+        },
+        {
+            "College/University": "Laxmi Institute of Architecture (LIA)",
+            "City ": "Valsad",
+            "University Type": "Private",
+            "Degree": "B.arch",
+            "Weblink": "https://lia.laxmi.edu.in/",
+            "Exam": "JEE Mains",
+            "Minimum Eligibility": "50% marks in 12th"
+        },
+        {
+            "College/University": "Shri Govind Guru University (SGGU)",
+            "City ": "Godhra",
+            "University Type": "Government",
+            "Degree": "B.arch",
+            "Weblink": "https://sggu.ac.in/",
+            "Exam": "No exam",
+            "Minimum Eligibility": "PCM subjects"
+        },
+        {
+            "College/University": "Indus University",
+            "City ": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.arch",
+            "Weblink": "https://www.indusuni.ac.in/",
+            "Exam": "NATA",
+            "Minimum Eligibility": "50% marks in 12th"
+        },
+        {
+            "College/University": "Maharaja Sayajirao University of Baroda",
+            "City ": "Vadodara",
+            "University Type": "Government",
+            "Degree": "B.arch",
+            "Weblink": "www.msubaroda.ac.in/",
+            "Exam": "NATA",
+            "Minimum Eligibility": "50% marks in 12th"
+        },
+        {
+            "College/University": "CEPT University",
+            "City ": "Ahmedabad",
+            "University Type": "Private",
+            "Degree": "B.arch",
+            "Weblink": "https://cept.ac.in/",
+            "Exam": "NATA",
+            "Minimum Eligibility": "50% marks in 12th"
+        },
+        {
+            "College/University": "Marwadi University",
+            "City ": "Rajkot",
+            "University Type": "Private",
+            "Degree": "B.arch",
+            "Weblink": "https://www.marwadiuniversity.ac.in/",
+            "Exam": "NATA",
+            "Minimum Eligibility": "50% marks in 12th"
+        },
+        {
+            "College/University": "Parul University",
+            "City ": "Vadodara",
+            "University Type": "Private",
+            "Degree": "B.arch",
+            "Weblink": "http://www.paruluniversity.ac.in/home/",
+            "Exam": "NATA",
+            "Minimum Eligibility": "50% marks in 12th"
+        },
+        {
+            "College/University": "PP Savani University",
+            "City ": "Surat",
+            "University Type": "Private",
+            "Degree": "B.arch",
+            "Weblink": "https://www.ppsu.ac.in/",
+            "Exam": "NATA",
+            "Minimum Eligibility": "50% marks in 12th"
+        },
+        {
+            "College/University": "INDUBHAI PAREKH SCHOOL OF ARCHITECTURE [IPSA]",
+            "City ": "Rajkot",
+            "University Type": "Private",
+            "Degree": "B.arch",
+            "Weblink": "http://ipsarajkot.org/",
+            "Exam": "NATA",
+            "Minimum Eligibility": "50% marks in 12th"
+        },
+        {
+            "College/University": "ARVINDBHAI PATEL INSTITUTE OF ENVIRONMENTAL DESIGN",
+            "City ": "Vallabh Vidyanagar",
+            "University Type": "Private",
+            "Degree": "B.arch",
+            "Weblink": "http://www.apied.edu.in/",
+            "Exam": "NATA",
+            "Minimum Eligibility": "50% marks in 12th"
+        },
+        {
+            "College/University": "SCHOOL OF ARCHITECTURE - VADODARA DESIGN ACADEMY",
+            "City ": "Vadodara",
+            "University Type": "Private",
+            "Degree": "B.arch",
+            "Weblink": "http://www.vda.ac.in/",
+            "Exam": "NATA",
+            "Minimum Eligibility": "50% marks in 12th"
+        },
+        {
+            "College/University": "SARDAR VALLABHBHAI PATEL INSTITUTE OF TECHNOLOGY - [SVIT] ",
+            "City ": "Anand",
+            "University Type": "Private",
+            "Degree": "B.arch",
+            "Weblink": "https://svitvasad.ac.in/svit",
+            "Exam": "NATA",
+            "Minimum Eligibility": "50% marks in 12th"
+        },
+        {
+            "College/University": "NAVRACHANA UNIVERSITY - [NUV]",
+            "City ": "Vadodara",
+            "University Type": "Private",
+            "Degree": "B.arch",
+            "Weblink": "https://nuv.ac.in/",
+            "Exam": "NATA",
+            "Minimum Eligibility": "50% marks in 12th"
+        },
+        {
+            "College/University": "GROW MORE SCHOOL OF ARCHITECTURE",
+            "City ": "Sabarkantha",
+            "University Type": "Private",
+            "Degree": "B.arch",
+            "Weblink": "http://www.growmore.ac.in/",
+            "Exam": "NATA",
+            "Minimum Eligibility": "50% marks in 12th"
+        }
+    ],
+    "B.tech": [
+        {
+            "Name": "CEPT University",
+            "City": "Ahmedabad",
+            "Govt/Private": "Private",
+            "Degree": "B Des/B cons tech",
+            "Civil": "No",
+            "Mech": "No",
+            "Weblink": "https://cept.ac.in/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "50% in 12th"
+        },
+        {
+            "Name": "Swarnim Startup and Innovation University - SSIU",
+            "City": "Ahmedabad",
+            "Govt/Private": "Private",
+            "Degree": "BE/Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.swarrnim.edu.in/",
+            "Exam": "JEE Main, GUJCET, ACPC",
+            "Minimum eligibility": "No"
+        },
+        {
+            "Name": "School of Engineering and Applied Science, Ahmedabad University",
+            "City": "Ahmedabad",
+            "Govt/Private": "Private",
+            "Degree": "Btech",
+            "Civil": "No",
+            "Mech": "Yes",
+            "Weblink": "https://ahduni.edu.in/seas/",
+            "Exam": "JEE, ACPC",
+            "Minimum eligibility": "No"
+        },
+        {
+            "Name": "Institute of Technology, Nirma University",
+            "City": "Ahmedabad",
+            "Govt/Private": "Private",
+            "Degree": "Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://nirmauni.ac.in/",
+            "Exam": "JEE Main, GUJCET, ACPC",
+            "Minimum eligibility": "No"
+        },
+        {
+            "Name": "L D College of Engineering",
+            "City": "Ahmedabad",
+            "Govt/Private": "Govt",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.ldce.ac.in",
+            "Exam": "JEE Main",
+            "Minimum eligibility": "43% in 12th"
+        },
+        {
+            "Name": "Vishwakarma Government Engineering College",
+            "City": "Ahmedabad",
+            "Govt/Private": "Govt",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.vgecg.ac.in",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "DDU - Dharmsinh Desai University",
+            "City": "Ahmedabad",
+            "Govt/Private": "Private",
+            "Degree": "BE/Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.ddu.ac.in/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "L.J. Institute of Engineering and Technology (L.J.I.E.T)",
+            "City": "Ahmedabad",
+            "Govt/Private": "Private",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "http://www.ljinstitutes.org/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "Ahmedabad Institute of Technology",
+            "City": "Ahmedabad",
+            "Govt/Private": "Private",
+            "Degree": "Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "www.aitindia.in/aitnew/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "45% in 12th"
+        },
+        {
+            "Name": "SOCET - Silver Oak College of Engineering & Technology",
+            "City": "Ahmedabad",
+            "Govt/Private": "Private",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "http://socet.edu.in/socet/",
+            "Exam": "GUJCET & JEE",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "Indus University",
+            "City": "Ahmedabad",
+            "Govt/Private": "Private",
+            "Degree": "BE/Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.indusuni.ac.in/",
+            "Exam": "JEE Main & GUJCET",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "Institute of Infrastructure Technology Research and Management",
+            "City": "Ahmedabad",
+            "Govt/Private": "Govt",
+            "Degree": "BE/Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://iitram.ac.in/",
+            "Exam": "JEE Main ",
+            "Minimum eligibility": "70% in 12th"
+        },
+        {
+            "Name": "Aditya Silver Oak Institute of Technology",
+            "City": "Ahmedabad",
+            "Govt/Private": "Private",
+            "Degree": "BE/Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "http://socet.edu.in/socet/",
+            "Exam": "GUJCET & JEE Main",
+            "Minimum eligibility": "45% in 12th"
+        },
+        {
+            "Name": "Adani Institute of Infrastructure Engineering",
+            "City": "Ahmedabad",
+            "Govt/Private": "Private",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "No",
+            "Weblink": "http://www.aii.ac.in/aiie/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "45% in 12th"
+        },
+        {
+            "Name": "SAL College of Engineering",
+            "City": "Ahmedabad",
+            "Govt/Private": "Private",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.sal.edu.in/",
+            "Exam": "GUJCET & JEE"
+        },
+        {
+            "Name": "Hasmukh Goswami College of Engineering",
+            "City": "Ahmedabad",
+            "Govt/Private": "Private",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.hgce.org/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "45% IN 12th"
+        },
+        {
+            "Name": "Amiraj College of Engineering and Technology",
+            "City": "Ahmedabad",
+            "Govt/Private": "Private",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.amirajcollege.in/",
+            "Exam": "JEE main",
+            "Minimum eligibility": "45% IN 12th"
+        },
+        {
+            "Name": "SAL Institute of Technology and Engineering Research",
+            "City": "Ahmedabad",
+            "Govt/Private": "Private",
+            "Degree": "BE/Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.sal.edu.in/",
+            "Exam": "JEE main",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "The Institute of Engineering and Technology",
+            "City": "Ahmedabad",
+            "Govt/Private": "Private",
+            "Degree": "BE/Btech",
+            "Civil": "No",
+            "Mech": "Yes",
+            "Weblink": "www.theiet.in/",
+            "Exam": "JEE main",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "Institute of Computer Technology, Ganpat University",
+            "City": "Ahmedabad",
+            "Govt/Private": "Private",
+            "Degree": "Btech",
+            "Civil": "No",
+            "Mech": "No",
+            "Weblink": "https://www.ict.gnu.ac.in/",
+            "Exam": "JEE Main",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "Sardar Vallabhbhai Patel Institute of Technology",
+            "City": "Anand",
+            "Govt/Private": "Private",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://svitvasad.ac.in/svit/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "45% in 12th"
+        },
+        {
+            "Name": "Birla Vishvakarma Mahavidyalaya",
+            "City": "Anand",
+            "Govt/Private": "Govt",
+            "Degree": "BE/Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "www.bvmengineering.ac.in/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "Anand Agricultural University",
+            "City": "Anand",
+            "Govt/Private": "Private",
+            "Degree": "Agri Eng",
+            "Civil": "No",
+            "Mech": "No",
+            "Weblink": "www.aau.in/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "College of Food Processing Technology and Bio Energy, Anand - Anand Agricultural University",
+            "City": "Anand",
+            "Govt/Private": "Govt",
+            "Degree": "BE/Btech (Food tech)",
+            "Civil": "No",
+            "Mech": "No",
+            "Weblink": "www.aau.in/college-menu/706",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "40% in 12th"
+        },
+        {
+            "Name": "Chandubhai S Patel Institute of Technology",
+            "City": "Anand",
+            "Govt/Private": "Private",
+            "Degree": "Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.charusat.ac.in/CSPIT/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "UTU - Uka Tarsadia University",
+            "City": "Bardoli",
+            "Govt/Private": "Private",
+            "Degree": "Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "www.utu.ac.in/",
+            "Exam": "JEE Main & GUJCET",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "School of Technology, Pandit Deendayal Petroleum University",
+            "City": "Gandhinagar",
+            "Govt/Private": "Private",
+            "Degree": "Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.pdpu.ac.in/",
+            "Exam": "No",
+            "Minimum eligibility": "45% in 12th"
+        },
+        {
+            "Name": "IIT Gandhinagar - Indian Institute of Technology (IITGN)",
+            "City": "Gandhinagar",
+            "Govt/Private": "Govt",
+            "Degree": "BE/Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.iitgn.ac.in/",
+            "Exam": "JEE Advance",
+            "Minimum eligibility": "No"
+        },
+        {
+            "Name": "DAIICT - Dhirubhai Ambani Institute of Information and Communication Technology",
+            "City": "Gandhinagar",
+            "Govt/Private": "Private",
+            "Degree": "BE/Btech",
+            "Civil": "No",
+            "Mech": "No",
+            "Weblink": "https://www.daiict.ac.in/",
+            "Exam": "JEE Main",
+            "Minimum eligibility": "45% in 12th"
+        },
+        {
+            "Name": "Government Engineering College, Gandhinagar",
+            "City": "Gandhinagar",
+            "Govt/Private": "Govt",
+            "Degree": "BE",
+            "Civil": "No",
+            "Mech": "No",
+            "Weblink": "www.gecgh.cteguj.in/",
+            "Exam": "JEE MAIN & GUJCET",
+            "Minimum eligibility": "45%  in 12th"
+        },
+        {
+            "Name": "LDRP Institute of Technology and Research",
+            "City": "Gandhinagar",
+            "Govt/Private": "Private",
+            "Degree": "BE/BTECH",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.ldrp.ac.in/",
+            "Exam": "JEE MAIN & GUJCET"
+        },
+        {
+            "Name": "GIT - Gandhinagar Institute of Technology",
+            "City": "Gandhinagar",
+            "Govt/Private": "Private",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://git.org.in/\r\n",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "45% in 12th"
+        },
+        {
+            "Name": "Indrashil University",
+            "City": "Mehsana",
+            "Govt/Private": "Private",
+            "Degree": "Btech",
+            "Civil": "No",
+            "Mech": "Yes",
+            "Weblink": "https://indrashiluniversity.edu.in/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "45% in 12th"
+        },
+        {
+            "Name": "Ganpat University",
+            "City": "Mehsana",
+            "Govt/Private": "Private",
+            "Degree": "Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.ganpatuniversity.ac.in/",
+            "Exam": "GUJCET JEE main ",
+            "Minimum eligibility": "45% IN 12th"
+        },
+        {
+            "Name": "U V Patel College of Engineering",
+            "City": "Mehsana",
+            "Govt/Private": "Private",
+            "Degree": "BE/Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.uvpce.ac.in/",
+            "Exam": "JEE main",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "MU - Marwadi University",
+            "City": "Rajkot",
+            "Govt/Private": "Private",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.marwadiuniversity.ac.in/",
+            "Exam": "Jee Main",
+            "Minimum eligibility": "45% in 12th"
+        },
+        {
+            "Name": "VVP Engineering College",
+            "City": "Rajkot",
+            "Govt/Private": "Private",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://vvpedulink.ac.in/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "Government Engineering College, Rajkot",
+            "City": "Rajkot",
+            "Govt/Private": "Govt",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "www.gecrj.cteguj.in/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "Marwadi Education Foundation's Group of Institutions (MEFGI)",
+            "City": "Rajkot",
+            "Govt/Private": "Private",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.marwadieducation.edu.in/",
+            "Exam": "JEE MAINS",
+            "Minimum eligibility": "45% in 12th"
+        },
+        {
+            "Name": "P P Savani University - PPSU",
+            "City": "Surat",
+            "Govt/Private": "Private",
+            "Degree": "BE/Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.ppsu.ac.in/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "45% IN 12th"
+        },
+        {
+            "Name": "NIT Surat (SVNIT) - Sardar Vallabhbhai National Institute of Technology",
+            "City": "Surat",
+            "Govt/Private": "Govt",
+            "Degree": "Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "www.svnit.ac.in/",
+            "Exam": "JEE Main",
+            "Minimum eligibility": "75% in 12th"
+        },
+        {
+            "Name": "IIIT Surat - Indian Institute of Information Technology, Surat",
+            "City": "Surat",
+            "Govt/Private": "Semi-govt",
+            "Degree": "BE/Btech",
+            "Civil": "No",
+            "Mech": "No",
+            "Weblink": "www.iiitsurat.ac.in/",
+            "Exam": "JEE main (score)",
+            "Minimum eligibility": "70% in 12th"
+        },
+        {
+            "Name": "Bhagwan Arihant Institute Of Technology",
+            "City": "Surat",
+            "Govt/Private": "Private",
+            "Degree": "BE/Btech",
+            "Civil": "No",
+            "Mech": "No",
+            "Weblink": "http://www.bmefcolleges.edu.in/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "C.K Pithawalla College of Engineering and Technology",
+            "City": "surat",
+            "Govt/Private": "private",
+            "Degree": "BE/Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "www.ckpcet.ac.in/",
+            "Exam": "Jee mains",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "Sarvajanik College of Engineering and Technology",
+            "City": "Surat",
+            "Govt/Private": "Private",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://scet.ac.in/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "Shree Swami Atmanand Saraswati Institute of Technology",
+            "City": "Surat",
+            "Govt/Private": "Private",
+            "Degree": "Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "http://ssasit.ac.in/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "45% IN 12th"
+        },
+        {
+            "Name": "Dr. S & S.S.Ghandhi Government Engineering College",
+            "City": "Surat",
+            "Govt/Private": "Govt",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "http://www.gecsu.cteguj.in/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "45% IN 12th"
+        },
+        {
+            "Name": "Navrachana University - NUV",
+            "City": "Vadodara",
+            "Govt/Private": "Private",
+            "Degree": "Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://nuv.ac.in/",
+            "Exam": "JEE Main & ACPC",
+            "Minimum eligibility": "50% in 12th"
+        },
+        {
+            "Name": "Parul University",
+            "City": "Vadodara",
+            "Govt/Private": "Private",
+            "Degree": "Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "www.paruluniversity.ac.in/",
+            "Exam": "JEE Main",
+            "Minimum eligibility": "45% IN 12th"
+        },
+        {
+            "Name": "MSU - The Maharaja Sayajirao University of Baroda",
+            "City": "Vadodara",
+            "Govt/Private": "Govt",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "www.msubaroda.ac.in/",
+            "Exam": "GUJCET , JEE main & ACPC",
+            "Minimum eligibility": "No"
+        },
+        {
+            "Name": "ITM Vocational University - ITMVU",
+            "City": "Vadodara",
+            "Govt/Private": "Private",
+            "Degree": "Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.itm.ac.in/",
+            "Exam": "GUJCET & JEE main",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "ITM Universe",
+            "City": "Vadodara",
+            "Govt/Private": "Private",
+            "Degree": "BE/Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.itmuniverse.ac.in/",
+            "Exam": "JEE main",
+            "Minimum eligibility": "50% in 12th"
+        },
+        {
+            "Name": "Babaria Institute of Technology",
+            "City": "Vadodara",
+            "Govt/Private": "Private",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://bitseducampus.org/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "45% in 12th"
+        },
+        {
+            "Name": "GSFC University",
+            "City": "Vadodara",
+            "Govt/Private": "Private",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.gsfcuni.edu.in/",
+            "Exam": "JEE main",
+            "Minimum eligibility": "45% IN 12th"
+        },
+        {
+            "Name": "Vadodara Institute Of Engineering, Waghodiya",
+            "City": "Vadodara",
+            "Govt/Private": "Private",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://vier.org.in/",
+            "Exam": "JEE Main & GUJCET",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "K.J. Institute Of Engineering And Technology",
+            "City": "Vadodara",
+            "Govt/Private": "Private",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "https://www.kjit.org/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "Sigma Institute of Engineering, Bakrol",
+            "City": "Vadodara",
+            "Govt/Private": "Private",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "http://sigma.ac.in/",
+            "Exam": "ACPC & GUJCET",
+            "Minimum eligibility": "No"
+        },
+        {
+            "Name": "Neotech Institute of Technology, Vadodara",
+            "City": "Vadodara",
+            "Govt/Private": "Private",
+            "Degree": "Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "www.neotech.ac.in/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "IIIT Vadodara - Indian Institute of Information Technology (IIITV)",
+            "City": "Vadodara",
+            "Govt/Private": "Semi-govt",
+            "Degree": "BE/Btech",
+            "Civil": "No",
+            "Mech": "No",
+            "Weblink": "http://iiitvadodara.ac.in/",
+            "Exam": "JEE main (score)",
+            "Minimum eligibility": "70% in 12th"
+        },
+        {
+            "Name": "G H Patel College of Engineering and Technology",
+            "City": "vallabh vidhyanagar",
+            "Govt/Private": "Private",
+            "Degree": "BE/Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "www.gcet.ac.in/",
+            "Exam": "GUJCET & JEE Main",
+            "Minimum eligibility": "12th min criteria"
+        },
+        {
+            "Name": "A. D. Patel Institute of Technology",
+            "City": "vallabh vidhyanagar",
+            "Govt/Private": "Private",
+            "Degree": "Btech",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "www.adit.ac.in/",
+            "Exam": "GUJCET & JEE main",
+            "Minimum eligibility": "45% in 12th"
+        },
+        {
+            "Name": "Government Engineering College, Valsad",
+            "City": "Valsad",
+            "Govt/Private": "Govt",
+            "Degree": "BE",
+            "Civil": "Yes",
+            "Mech": "Yes",
+            "Weblink": "www.gecvl.cteguj.in/",
+            "Exam": "GUJCET",
+            "Minimum eligibility": "12th min criteria"
+        }
+    ]
+}
